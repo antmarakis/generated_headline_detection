@@ -9,7 +9,7 @@ Step 1: Download Data.
   * [Link to generated headlines data (defense).](https://drive.google.com/file/d/1y_zFKSpJ2CTRnSoUq7cz3q4Ir-bERKVl/view?usp=sharing)
   * For the real headlines, go to [Million Headlines](https://www.kaggle.com/therohk/million-headlines), or contact me for the final dataset (due to copyright concerns I cannot share the data myself publicly).
 
-Step 2: Pretrain two LMs using the [HuggingFace library](https://github.com/huggingface/transformers/tree/master/examples/language-modeling). Pretrain one LM on the "attack" data and another on the "defense".
+Step 2: Pretrain two LMs using the [HuggingFace library](https://github.com/huggingface/transformers/tree/master/examples/language-modeling). Pretrain one LM on the "attack" data and another on the "defense". Sample bash script at `gpt2_pretraining.sh`.
 
 Step 3: Generate headlines for attack and defense (if you haven't downloaded the ones from Step 1).
 
