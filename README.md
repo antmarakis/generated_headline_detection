@@ -15,4 +15,4 @@ Step 3: Generate headlines for attack and defense (if you haven't downloaded the
 
 Step 4: Merge the real/generated headlines for attack and defense.
 
-Step 5: Finetune your classifiers (using the example scripts provided here, eg. `bert_classify.py`).
+Step 5: Finetune your classifiers (using the example scripts provided here, ie. `*_classify.py`).
