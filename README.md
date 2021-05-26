@@ -1,6 +1,6 @@
 ## Identifying Automatically Generated Headlines using Transformers
 
-Code for [NLP4IF 2021](http://www.netcopia.net/nlp4if/) workshop paper. ([preprint](https://arxiv.org/abs/2009.13375))
+Code for [NLP4IF 2021 workshop paper](https://www.aclweb.org/anthology/2021.nlp4if-1.1/).
 
 ### How to replicate results?
 
